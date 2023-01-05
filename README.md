@@ -1,4 +1,13 @@
-### Hi there 👋
+# Hello EveryBody 👋
+
+[![Twitter Badge](https://img.shields.io/badge/-@GiovaniLeiteVitor-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/GiovaniLLeite) [![Linkedin Badge](https://img.shields.io/badge/-GiovaniLeiteVitor-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/giovani-leite-vitor-7803961b9/) [![Medium Badge](https://img.shields.io/badge/-@giovanileitevitor-000000?style=flat-square&labelColor=000000&logo=Medium)](https://medium.com/@giovanileitevitor) 
+
+- 👨🏻‍💻 Software Engineer \ Android Developer
+- 🚧 Working at Alter Solutions \ TimWe Project
+- 🖥 Developing in `Kotlin` and `PHP` and `C` and `Python`
+- 🌐 Speak 🇧🇷 🇺🇸 
+- ⚡ Rocker \ Knights of Zodiac Enthusiastic
+
 
 <!--
 **giovanileitevitor/giovanileitevitor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
