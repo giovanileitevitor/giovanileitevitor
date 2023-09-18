@@ -4,7 +4,7 @@
 
 - 👨🏻‍💻 Software Engineer \ Android Developer
 - 🚧 Working as Mobile Developer \ Backend Developer \ Google Cloud Developer
-- 🖥 Developing in `Kotlin` and `PHP` and `C` and `Python`
+- 🖥 Developing in `Kotlin` and `Java` and `PHP` and `C` and `Python`
 - 🌐 Speak 🇧🇷 🇺🇸 
 - ⚡ Rocker \ Knights of Zodiac Enthusiastic
 - ✉︎ giovanileitevitor@gmail.com
